@@ -1,0 +1,15 @@
+{
+  "name": "device",
+  "version": "1.0.0",
+  "description": "Bluetooth Commander Device",
+  "main": "device.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "iKPYT",
+  "license": "ISC",
+  "dependencies": {
+    "@abandonware/bleno": "^0.5.1-4",
+    "bleno": "^0.5.0"
+  }
+}

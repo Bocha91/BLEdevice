@@ -1,4 +1,5 @@
-/* 30.11.2021 создаю репо на 
+/* iKPYT is working on this code */ 
+/* 30.11.2021 создаю репо на https://github.com/Bocha91/BLEdevice
 Bluetooth LE device, серверная составляющая командно-ориентированного канала управления устройством.
 Bluetooth LE device, server component of command-oriented device control channel.
 */
@@ -13,7 +14,7 @@ console.log("run device4")
 //Service UUID to expose our UART characteristics
 const UART_SERVICE      = "6e400001-b5a3-f393-e0a9-e50e24dcca9e";
 //RX, Write characteristic
-const RX_WRITE_CHAR     = "6e400002-b5a3-f393-e0a9-re50e24dcca9e";
+const RX_WRITE_CHAR     = "6e400002-b5a3-f393-e0a9-e50e24dcca9e";
 //TX READ Notify
 const TX_READ_CHAR      = "6e400003-b5a3-f393-e0a9-e50e24dcca9e";
 const TX_READ_CHAR_DESC = "00002902-0000-1000-8000-00805f9b34fb";

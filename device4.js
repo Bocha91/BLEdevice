@@ -207,3 +207,6 @@ process.on( 'exit', function() {
 //    console.log( "never see this log message" )
 })
 
+/*
+6b:e0:96:db:5b:47
+*/
